@@ -1,0 +1,19 @@
+/* body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b38a104f-2e04-4a1f-a477-0a3e617d1e5a/d3b8cno-12ff3fd2-1439-4eda-a8a9-fad8a9f29160.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvYjM4YTEwNGYtMmUwNC00YTFmLWE0NzctMGEzZTYxN2QxZTVhXC9kM2I4Y25vLTEyZmYzZmQyLTE0MzktNGVkYS1hOGE5LWZhZDhhOWYyOTE2MC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.KZQ8ES7mVweEVuYNKJ6_SMhjooOaL7i335VQEPVuwNU');
+}
+nav {
+  background-color: rgba(255, 211, 65, 0.796);  
+}
+main {
+  flex: 1 0 auto;
+  background-color: rgba(255, 255, 255, 0.885);
+}
+
+footer.page-footer {
+  padding-top: 0;
+  text-align: right;
+  background-color: rgba(255, 211, 65, 0.858);  
+} */
